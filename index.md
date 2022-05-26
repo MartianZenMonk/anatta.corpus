@@ -55,7 +55,7 @@
 <p>วันเกิด เกิดให้เป็น (๒๗.๔๑) - payutto <br/><audio controls=''><source src='http://thammapedia.com/listen/payutto/mp3/15_21.mp3' type='audio/mp3'></audio></p>
 <p>ปฏิบัติอย่างไรในวันเกิด - panya <br/><audio controls=''><source src='http://thammapedia.com/listen/panya/mp3/405.mp3' type='audio/mp3'></audio></p>
 
-<div>
+
 ### ธรรมเทศนาว่าด้วย - ปัญญา
   <p>พรรษากาลเทศนา กัณฑ์ 0๒ -:ไตรสิกขา : ศีลสิกขา-สมาธิสิกขา-ปัญญา... - bdds<br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/3023.mp3' type='audio/mp3'></audio></p>
                 <p>พรรษากาลเทศนา กัณฑ์ ๑๑ -:ไตรมาส : ศีลมาส-สมาธิมาส-ปัญญามาส - bdds<br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/4002.mp3' type='audio/mp3'></audio></p>
@@ -136,7 +136,7 @@
                 <p>ผู้มีปัญญาย่อมแสวงบุญ - riean<br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/754.mp3' type='audio/mp3'></audio></p>
                 <p>ชาวพุทธควรมีปัญญา - riean<br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/755.mp3' type='audio/mp3'></audio></p>
  
- <h4> ธรรมเทศนาว่าด้วย - อริยสัจจ์ </h4>
+### ธรรมเทศนาว่าด้วย - อริยสัจจ์ 
                 <p>อาสาฬหบูชาเทศนา พ.ศ. ๒๕๒๙ กัณฑ์ ๒ -: อริยสัจจ์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/6027.mp3' type='audio/mp3'></audio></p>
                 <p>อาสาฬหบูชาเทศนา พ.ศ. ๒๕๓๑ กัณฑ์ที่ ๑ -: อตัมมยตากับอริยสัจจส... - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/6030.mp3' type='audio/mp3'></audio></p>
                 <p>สรุปปฎิจจสมุปบาทและอริยสัจจ์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/12003.mp3' type='audio/mp3'></audio></p>
@@ -147,7 +147,7 @@
                 <p>ชอบอ้างกันนักว่าอริยสัจสี่  แต่แค่หน้าที่ปริญญา ก็ยังไม่รู้จัก (ส่วน ถาม-ตอบ) [40.08] - payutto <br/><audio controls=''><source src='http://thammapedia.com/listen/payutto/mp3/13_21.mp3' type='audio/mp3'></audio></p>
                 <p>ปัญญาเป็นอริยสัจธรรม - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/155.mp3' type='audio/mp3'></audio></p>
 
-                <h4> ### ธรรมเทศนาว่าด้วย - ทุกข์ </h4>
+### ธรรมเทศนาว่าด้วย - ทุกข์ 
                 <p>การดับทุกข์เป็นหน้าที่ของทุกคน - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/1011.mp3' type='audio/mp3'></audio></p>
                 <p>ทำอย่างไรจึงจะไม่เป็นทุกข์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/2015.mp3' type='audio/mp3'></audio></p>
                 <p>ทุกข์และความดับไม่เหลือแห่งทุกข์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/2016.mp3' type='audio/mp3'></audio></p>
@@ -256,7 +256,7 @@
                 <p>อุปาทานขันธ์ห้าเป็นตัวทุกข์ - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/721.mp3' type='audio/mp3'></audio></p>
                 <p>ธรรมเครื่องบรรเทาทุกข์ - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/722.mp3' type='audio/mp3'></audio></p>
 
-                <h4> ธรรมเทศนาว่าด้วย - มรรค </h4>
+### ธรรมเทศนาว่าด้วย - มรรค 
                 <p>พรรษากาลเทศนา กัณฑ์ 0๓ -:ไตรโลกุตตรธรรม : มรรค-ผล-นิพพาน - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/3024.mp3' type='audio/mp3'></audio></p>
                 <p>อัฏฐังคิกมรรคยอกศิลปะแห่งการครองชีวิต - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/8025.mp3' type='audio/mp3'></audio></p>
                 <p>นับถือเทวดายังพอฟัง แต่ถ้ามัวหวังพึ่งขอผล ก็หล่นจากอริยมรรคไม่เหลือดี ตอนที่ ๑ (๔๘.๒๖) - payutto <br/><audio controls=''><source src='http://thammapedia.com/listen/payutto/mp3/02_08.mp3' type='audio/mp3'></audio></p>
@@ -268,7 +268,7 @@
                 <p>ดูมรรคมีองค์ ๘ ให้เห็นวิถีชีวิตที่ดีงาม ว่าดำเนินไปอย่างไร - payutto <br/><audio controls=''><source src='http://thammapedia.com/listen/payutto/mp3/09_45.mp3' type='audio/mp3'></audio></p>
                 <p>สัมมามรรค - มิจฉามรรค - char <br/><audio controls=''><source src='http://thammapedia.com/listen/char/mp3/th_043.mp3' type='audio/mp3'></audio></p>
 
-                <h4> ธรรมเทศนาว่าด้วย - ชีวิต </h4>
+### ธรรมเทศนาว่าด้วย - ชีวิต 
                 <p>การทำงานคือการปฏิบัติธรรม การมีชีวิตด้วยจิตว่าง - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/1015.mp3' type='audio/mp3'></audio></p>
                 <p>การมีชีวิตด้วยจิตว่าง - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/1016.mp3' type='audio/mp3'></audio></p>
                 <p>การมีนิพพานในชีวิตประจำวัน - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/1023.mp3' type='audio/mp3'></audio></p>
@@ -434,5 +434,3 @@
                 <p>พิจารณาทุกข์ของชีวิต - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/718.mp3' type='audio/mp3'></audio></p>
                 <p>ชีวิตจะตกตํ่าถ้าเอากิเลสนำทาง - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/720.mp3' type='audio/mp3'></audio></p>
                 <p>ชีวิตจะพ้นภัยถ้าอาศัยธรรมนำทาง - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/749.mp3' type='audio/mp3'></audio></p>
- </div>
- 
