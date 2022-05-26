@@ -56,7 +56,7 @@
 <p>ปฏิบัติอย่างไรในวันเกิด - panya <br/><audio controls=''><source src='http://thammapedia.com/listen/panya/mp3/405.mp3' type='audio/mp3'></audio></p>
 
 <div>
- <h4> ธรรมเทศนาว่าด้วย - ปัญญา </h4>
+### ธรรมเทศนาว่าด้วย - ปัญญา
   <p>พรรษากาลเทศนา กัณฑ์ 0๒ -:ไตรสิกขา : ศีลสิกขา-สมาธิสิกขา-ปัญญา... - bdds<br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/3023.mp3' type='audio/mp3'></audio></p>
                 <p>พรรษากาลเทศนา กัณฑ์ ๑๑ -:ไตรมาส : ศีลมาส-สมาธิมาส-ปัญญามาส - bdds<br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/4002.mp3' type='audio/mp3'></audio></p>
                 <p>ศิลปะแห่งการดูด้วย ยถาภูตสัมมัปปัญญา - bdds<br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/8027.mp3' type='audio/mp3'></audio></p>
@@ -147,7 +147,7 @@
                 <p>ชอบอ้างกันนักว่าอริยสัจสี่  แต่แค่หน้าที่ปริญญา ก็ยังไม่รู้จัก (ส่วน ถาม-ตอบ) [40.08] - payutto <br/><audio controls=''><source src='http://thammapedia.com/listen/payutto/mp3/13_21.mp3' type='audio/mp3'></audio></p>
                 <p>ปัญญาเป็นอริยสัจธรรม - riean <br/><audio controls=''><source src='http://thammapedia.com/listen/riean/mp3/155.mp3' type='audio/mp3'></audio></p>
 
-                <h4> ธรรมเทศนาว่าด้วย - ทุกข์ </h4>
+                <h4> ### ธรรมเทศนาว่าด้วย - ทุกข์ </h4>
                 <p>การดับทุกข์เป็นหน้าที่ของทุกคน - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/1011.mp3' type='audio/mp3'></audio></p>
                 <p>ทำอย่างไรจึงจะไม่เป็นทุกข์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/2015.mp3' type='audio/mp3'></audio></p>
                 <p>ทุกข์และความดับไม่เหลือแห่งทุกข์ - bdds <br/><audio controls=''><source src='http://thammapedia.com/listen/bdds/mp3/2016.mp3' type='audio/mp3'></audio></p>
